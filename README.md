@@ -2,12 +2,11 @@
 
 # Requirements
 * [Download sharpkeys](https://www.randyrants.com/category/sharpkeys/)
-
-# [Create these keybindings from this screenshot](https://github.com/dion/windows-to-osx-keybindings/blob/master/sharpkeys-screenshot.png)
-
 * [Download autohotkey](https://www.autohotkey.com/)
 
-# [Use my autohotkey script] (https://github.com/dion/windows-to-osx-keybindings/blob/master/alt-tab.ahk)
+# Create key bindings 
+* [Create these keybindings from this screenshot](https://github.com/dion/windows-to-osx-keybindings/blob/master/sharpkeys-screenshot.png)
+* [Use my autohotkey script] (https://github.com/dion/windows-to-osx-keybindings/blob/master/alt-tab.ahk)
 this script fixes the alt-tab to behave more like osx
 
 # TODO
