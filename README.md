@@ -6,7 +6,9 @@
 
 # Create key bindings 
 ![Create these keybindings from this screenshot](https://github.com/dion/windows-to-osx-keybindings/blob/master/sharpkeys-screenshot.png)
-* [Use my autohotkey script](https://github.com/dion/windows-to-osx-keybindings/blob/master/alt-tab.ahk)
+
+# Load my autohotkey script 
+[https://github.com/dion/windows-to-osx-keybindings/blob/master/alt-tab.ahk](https://github.com/dion/windows-to-osx-keybindings/blob/master/alt-tab.ahk)
 
 this script fixes the alt-tab to behave more like osx
 
